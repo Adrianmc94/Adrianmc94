@@ -1,5 +1,5 @@
-# _Hi, I´m Adrián_ 👾
-## I´m a multiplatform software developer ##
+# _Hi, I´m Adrian_ 👾
+## I´m a multiplatform software developer 💻 ##
 ![Imagen](https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif). 
 
 
@@ -47,13 +47,11 @@
 
 
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
 
